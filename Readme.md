@@ -11,7 +11,7 @@
         </tr>
       </thead>
       <tbody>
-      <!-- *********************************** -->
+      <!-- ***********************01*********************** -->
         <tr>
           <td rowspan="3">01</td>
           <td rowspan="3">Simple Calculator</td>
@@ -29,7 +29,25 @@
             <a href="https://youtu.be/zSN2G2QyPlE" target="_blank">Youtube</a>
           </td>
         </tr>
-        <!-- ********************************************* -->
+        <!-- ***********************02*********************** -->
+        <tr>
+          <td rowspan="3">02</td>
+          <td rowspan="3">Number Guessing Game</td>
+          <td rowspan="1">
+            <a href="https://github.com/hassan-ak/wmd-ts-number-game" target="_blank">GitHub</a>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1">
+            <a href="https://www.npmjs.com/package/wmd-ts-number-game" target="_blank">npm</a>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1">
+            <a href="https://youtu.be/ok95eqjwHj4" target="_blank">Youtube</a>
+          </td>
+        </tr>
+        <!-- ***********************01*********************** -->
       </tbody>
     </table>
   </body>
