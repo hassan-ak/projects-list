@@ -83,6 +83,24 @@
             <a href="https://youtu.be/2UL1xglz1t4" target="_blank">Youtube</a>
           </td>
         </tr>
+        <!-- ***********************05*********************** -->
+        <tr>
+          <td rowspan="3">05</td>
+          <td rowspan="3">Currency Converter</td>
+          <td rowspan="1">
+            <a href="https://github.com/hassan-ak/wmd-ts-currency-converter" target="_blank">GitHub</a>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1">
+            <a href="https://www.npmjs.com/package/wmd-ts-currency-converter" target="_blank">npm</a>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1">
+            <a href="https://youtu.be/I4Bc8bZMQLE" target="_blank">Youtube</a>
+          </td>
+        </tr>
         <!-- ***********************00*********************** -->
       </tbody>
     </table>
