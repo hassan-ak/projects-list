@@ -101,6 +101,24 @@
             <a href="https://youtu.be/I4Bc8bZMQLE" target="_blank">Youtube</a>
           </td>
         </tr>
+        <!-- ***********************06*********************** -->
+        <tr>
+          <td rowspan="3">06</td>
+          <td rowspan="3">Word Counter</td>
+          <td rowspan="1">
+            <a href="https://github.com/hassan-ak/wmd-ts-word-counter" target="_blank">GitHub</a>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1">
+            <a href="https://www.npmjs.com/package/wmd-ts-word-counter" target="_blank">npm</a>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="1">
+            <a href="https://youtu.be/8AD0V1miKjs" target="_blank">Youtube</a>
+          </td>
+        </tr>
         <!-- ***********************00*********************** -->
       </tbody>
     </table>
