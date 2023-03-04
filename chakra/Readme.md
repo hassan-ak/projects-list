@@ -22,19 +22,6 @@
             <a href="https://wmd-chakra-pricing-ui.vercel.app/" target="_blank">Vercel</a>
           </td>
         </tr>
-        <!-- ***********************02*********************** -->
-        <tr>
-          <td rowspan="2">02</td>
-          <td rowspan="2">Article Preview</td>
-          <td rowspan="1">
-            <a href="https://github.com/hassan-ak/wmd-tailwind-article-preview" target="_blank">GitHub</a>
-          </td>
-        </tr>
-        <tr>
-          <td rowspan="1">
-            <a href="https://wmd-tailwind-article-preview.vercel.app/" target="_blank">Vercel</a>
-          </td>
-        </tr>
         <!-- ***********************00*********************** -->
       </tbody>
     </table>
