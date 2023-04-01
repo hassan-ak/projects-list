@@ -13,7 +13,7 @@
       <!-- ***********************01*********************** -->
         <tr>
           <td rowspan="2">01</td>
-          <td rowspan="3">Getting Started with JS exercises</td>
+          <td rowspan="2">Getting Started with JS exercises</td>
           <td rowspan="1">
             <a href="https://github.com/hassan-ak/wmd-js-getting-started-exercises" target="_blank">GitHub</a>
           </td>
