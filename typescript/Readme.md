@@ -1,6 +1,6 @@
 # TypeScript Projects
 
-## CLI Projects
+## TypeScript CLI Projects
 
 <table>
       <thead>
