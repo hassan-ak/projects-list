@@ -148,3 +148,29 @@
 </table>
 
 ## Next.JS + Rive
+
+<table>
+  <thead>
+    <tr>
+      <th>Serial No.</th>
+      <th>Title</th>
+      <th>URL's</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- ***********************01*********************** -->
+    <tr>
+      <td rowspan="2">01</td>
+      <td rowspan="2">Rocket Animation</td>
+      <td rowspan="1">
+        <a href="https://github.com/hassan-ak/wmd-rive-rocket" target="_blank">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="1">
+        <a href="https://wmd-rive-rocket.vercel.app/" target="_blank">Vercel</a>
+      </td>
+    </tr>
+      <!-- ***********************00*********************** -->
+  </tbody>
+</table>
